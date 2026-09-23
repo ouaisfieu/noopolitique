@@ -1,0 +1,40 @@
+# Noopolitique
+
+> Encyclopédie en ligne de la noopolitique : noosphère, guerre cognitive, psychopouvoir, contrôle réflexif, désinformation et neurodroits. Notions, doctrines, cas et penseurs, sourcés et reliés.
+
+Site encyclopédique statique en français. Textes rédigés par Claude (Anthropic), licence CC BY-SA 4.0. Chaque article cite ses sources.
+
+## Comprendre
+
+- [Qu'est-ce que la noopolitique ?](https://ouaisfieu.github.io/noopolitique/noopolitique/): Définition de la noopolitique : origine RAND (1999), trois acceptions (stratégique, critique, géopolitique de la connaissance) et critiques du concept.
+
+## Notions
+
+- [La noosphère, de l'utopie planétaire au champ de bataille](https://ouaisfieu.github.io/noopolitique/notions/noosphere/): La noosphère, « sphère de la pensée » née à Paris en 1922 : définition, visions de Teilhard de Chardin et de Vernadsky, héritage numérique et critiques.
+- [Du biopouvoir au psychopouvoir : l'attention comme ressource politique](https://ouaisfieu.github.io/noopolitique/notions/psychopouvoir/): Biopolitique, sociétés de contrôle, noopolitique selon Lazzarato, psychopouvoir et pharmakon selon Stiegler : quand gouverner, c'est capter l'attention.
+- [La gouvernementalité algorithmique](https://ouaisfieu.github.io/noopolitique/notions/gouvernementalite-algorithmique/): Le concept d'Antoinette Rouvroy et Thomas Berns : collecte, profilage, action. Fin de la théorie, société automatique de Stiegler et réponses du droit.
+- [La guerre cognitive : quand le cerveau devient champ de bataille](https://ouaisfieu.github.io/noopolitique/notions/guerre-cognitive/): La guerre cognitive selon l'OTAN : définition, différence avec la guerre de l'information, biais cognitifs exploités, concept de 2025 et critiques.
+- [Neurotechnologies et militarisation de l'esprit](https://ouaisfieu.github.io/noopolitique/notions/neurotechnologies/): Interfaces cerveau-machine, convergence NBIC, programmes militaires et neuro-piratage : comment la noopolitique s'étend jusqu'au cerveau.
+- [Neurodroits et liberté cognitive](https://ouaisfieu.github.io/noopolitique/notions/neurodroits/): Liberté cognitive, vie privée mentale, intégrité mentale : les neurodroits d'Ienca et Andorno, la réforme chilienne de 2021 et la norme UNESCO de 2025.
+- [La sécurité épistémique et le dilemme démocratique](https://ouaisfieu.github.io/noopolitique/notions/securite-epistemique/): Protéger la capacité d'une société à distinguer le vrai du faux sans censurer : dilemme démocratique, éducation aux médias, prebunking, Bouclier européen.
+
+## Doctrines
+
+- [La noopolitik de la RAND : Arquilla et Ronfeldt, de 1999 à « Whose Story Wins »](https://ouaisfieu.github.io/noopolitique/doctrines/rand-noopolitik/): Le rapport RAND de 1999 qui invente la noopolitik, l'ouverture gardée, les forces spéciales des médias, puis Whose Story Wins (2020) et la noopolitique sombre.
+- [Les « Trois guerres » chinoises et la quête du pouvoir discursif](https://ouaisfieu.github.io/noopolitique/doctrines/trois-guerres/): La doctrine chinoise de 2003 : guerre de l'opinion, guerre psychologique, lawfare. Pouvoir discursif, loups guerriers et guerre intelligentisée.
+- [Le contrôle réflexif russe et la politique du chaos](https://ouaisfieu.github.io/noopolitique/doctrines/controle-reflexif/): La théorie de Vladimir Lefebvre : amener l'adversaire à décider de lui-même ce que l'on veut. Maskirovka, saturation informationnelle et chaosisme.
+- [L'effet Bruxelles : une noopolitique par la norme](https://ouaisfieu.github.io/noopolitique/doctrines/effet-bruxelles/): Comment l'Union européenne exporte ses normes numériques par son marché, et lutte contre les manipulations étrangères de l'information (FIMI).
+- [La lutte informatique d'influence (L2I) : la doctrine française](https://ouaisfieu.github.io/noopolitique/doctrines/lutte-informatique-influence/): La doctrine militaire française de 2021 : définition, place à côté de la LID et de la LIO, contexte sahélien, héritage historique et cadre juridique.
+
+## Études de cas
+
+- [Doppelgänger : anatomie d'une opération d'ingérence russe](https://ouaisfieu.github.io/noopolitique/cas/doppelganger/): Faux sites de presse, Social Design Agency, rapport VIGINUM, saisie de 32 domaines et fuites internes : l'opération russe Doppelgänger et son impact réel.
+- [VIGINUM : la riposte française aux ingérences numériques étrangères](https://ouaisfieu.github.io/noopolitique/cas/viginum/): Le service français contre les ingérences numériques étrangères : critères, garde-fous et rapports RRN, Portal Kombat, Matriochka, Storm-1516.
+
+## Référence
+
+- [Les penseurs de la noopolitique](https://ouaisfieu.github.io/noopolitique/penseurs/): Dix-neuf fiches, de Vernadsky et Teilhard de Chardin à Stiegler, Lazzarato, Arquilla, Lefebvre et Farahany, avec œuvres clés et liens vers les articles.
+- [Glossaire de la noopolitique](https://ouaisfieu.github.io/noopolitique/glossaire/): Près de quarante définitions : noosphère, psychopouvoir, contrôle réflexif, FIMI, lawfare, neurodroits, prebunking, typosquattage et plus encore.
+- [Chronologie de la noopolitique](https://ouaisfieu.github.io/noopolitique/chronologie/): Les dates clés, de la noosphère (1922) au rapport RAND (1999), aux Trois guerres, à Doppelgänger, VIGINUM et à la norme UNESCO sur les neurotechnologies.
+- [Bibliographie et sources](https://ouaisfieu.github.io/noopolitique/bibliographie/): Ouvrages et rapports de référence (RAND, OTAN, VIGINUM, UNESCO, Stiegler, Lazzarato, Bradford) et liste complète des sources citées sur le site.
+- [À propos et méthode](https://ouaisfieu.github.io/noopolitique/a-propos/): Qui écrit ce site sur la noopolitique, selon quelle méthode, avec quelles sources et sous quelle licence. Textes rédigés par Claude, IA d'Anthropic.

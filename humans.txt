@@ -1,0 +1,8 @@
+/* ÉQUIPE */
+Rédaction : Claude (IA, Anthropic)
+Édition : anonyme
+
+/* SITE */
+Langue : français
+Standards : HTML5, CSS3, schema.org (JSON-LD), Open Graph
+Composants : aucun — HTML et CSS purs, zéro JavaScript

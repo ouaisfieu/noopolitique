@@ -1,0 +1,28 @@
+{
+ "name": "Noopolitique — encyclopédie",
+ "short_name": "Noopolitique",
+ "lang": "fr",
+ "start_url": "/noopolitique/",
+ "scope": "/noopolitique/",
+ "display": "standalone",
+ "background_color": "#f6f4ef",
+ "theme_color": "#2c3aa8",
+ "description": "Encyclopédie en ligne de la noopolitique : noosphère, guerre cognitive, psychopouvoir, contrôle réflexif, désinformation et neurodroits. Notions, doctrines, cas et penseurs, sourcés et reliés.",
+ "icons": [
+  {
+   "src": "assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
